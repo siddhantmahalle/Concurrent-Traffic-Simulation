@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/siddhant_mahalle/Documents/Udacity - C++/Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp
+iostream
+-
+random
+-
+TrafficLight.h
+/home/siddhant_mahalle/Documents/Udacity - C++/Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
+thread
+-
+queue
+-
+future
+-
+chrono
+-
+
+/home/siddhant_mahalle/Documents/Udacity - C++/Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
+mutex
+-
+deque
+-
+condition_variable
+-
+TrafficObject.h
+/home/siddhant_mahalle/Documents/Udacity - C++/Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
+
+/home/siddhant_mahalle/Documents/Udacity - C++/Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
+vector
+-
+thread
+-
+mutex
+-
+
